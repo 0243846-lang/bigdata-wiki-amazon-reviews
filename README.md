@@ -111,4 +111,4 @@ Databricks · PySpark · Spark MLlib · MLflow · Unity Catalog · Delta Lake ·
 Reseñas de Amazon — 3.6M train / 400K test — clasificación binaria de sentimiento.
 
 ## 👤 Autor
-David — Universidad Panamericana · Big Data
+David e Ivan — Universidad Panamericana · Big Data
